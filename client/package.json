@@ -1,7 +1,7 @@
 {
-  "name": "rush-quiz",
+  "name": "blitz-trivia-client",
   "version": "1.0.0",
-  "description": "RUSH Quiz — real-time multi-type quiz platform",
+  "description": "BlitzTrivia frontend",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "socket.io-client": "^4.7.5"
   },
   "devDependencies": {
     "@types/react": "^18.3.1",
