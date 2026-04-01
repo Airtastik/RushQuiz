@@ -1,0 +1,28 @@
+# RUSH Quiz Export
+# Title: Video Game OST Quiz Vol. 2
+# Description: Play the track — name the game! 4 categories, 20 questions. 100pts base + time bonus.
+# ID: game-ost-quiz-001
+# Created: 2026-03-28
+# Questions: 20
+
+id,type,text,points,timeLimit,option_a,option_b,option_c,option_d,correctIndex,correctAnswer,acceptedAnswers,tolerance,unit
+cat1q1,short_answer,🎮 Category 1 — Choose Your Fighter  |  Q1: Name the game,100,60,,,,,,super smash bros brawl,"smash bros brawl|brawl|ssbb|super smash bros|smash brawl",,
+cat1q2,short_answer,🎮 Category 1 — Choose Your Fighter  |  Q2: Name the game,100,60,,,,,,valorant,"valorant game|riot valorant",,
+cat1q3,short_answer,🎮 Category 1 — Choose Your Fighter  |  Q3: Name the game,100,60,,,,,,mario kart wii,"mkwii|mario kart wii|mariokart wii|mario kart",,
+cat1q4,short_answer,🎮 Category 1 — Choose Your Fighter  |  Q4: Name the game,100,60,,,,,,Apex Legends,"apex|apex legends",,
+cat1q5,short_answer,🎮 Category 1 — Choose Your Fighter  |  Q5: Name the game,100,60,,,,,,blazblue central fiction,"blazblue|blaz blue|blazblue: central fiction|central fiction",,
+cat2q1,short_answer,🕹️ Category 2 — 2016 Was 10 Years Ago  |  Q1: Name the game,100,60,,,,,,overwatch,"overwatch 1|ow|blizzard overwatch",,
+cat2q2,short_answer,🕹️ Category 2 — 2016 Was 10 Years Ago  |  Q2: Name the game,100,60,,,,,,doom 2016,"doom|doom game|doom reboot|doom (2016)",,
+cat2q3,short_answer,🕹️ Category 2 — 2016 Was 10 Years Ago  |  Q3: Name the game,100,60,,,,,,dark souls 3,"dark souls iii|ds3|dark souls 3",,
+cat2q4,short_answer,🕹️ Category 2 — 2016 Was 10 Years Ago  |  Q4: Name the game,100,60,,,,,,final fantasy 15,"final fantasy xv|ff15|ffxv|final fantasy 15",,
+cat2q5,short_answer,🕹️ Category 2 — 2016 Was 10 Years Ago  |  Q5: Name the game,100,60,,,,,,street fighter 5,"street fighter v|sf5|sfv|street fighter 5",,
+cat3q1,short_answer,🐴 Category 3 — Horses  |  Q1: Name the game,100,60,,,,,,red dead redemption 2,"rdr2|red dead 2|red dead redemption|rdr",,
+cat3q2,short_answer,🐴 Category 3 — Horses  |  Q2: Name the game,100,60,,,,,,fire emblem three houses,"fire emblem 3 houses|fe3h|three houses|fire emblem: three houses",,
+cat3q3,short_answer,🐴 Category 3 — Horses  |  Q3: Name the game,100,60,,,,,,uma musume pretty derby,"uma musume|umamusume|pretty derby|uma musume: pretty derby",,
+cat3q4,short_answer,🐴 Category 3 — Horses  |  Q4: Name the game,100,60,,,,,,the witcher 3,"witcher 3|witcher 3 wild hunt|the witcher 3: wild hunt|witcher",,
+cat3q5,short_answer,🐴 Category 3 — Horses  |  Q5: Name the game,100,60,,,,,,minecraft,"mine craft|mc|minecraft game",,
+cat4q1,short_answer,💀 Category 4 — Final Boss  |  Q1: Name the game,100,60,,,,,,pokemon diamond pearl platinum,"pokemon diamond|pokemon pearl|pokemon platinum|pokémon diamond|pokémon pearl|pokémon platinum|diamond pearl platinum|gen 4 pokemon",,
+cat4q2,short_answer,💀 Category 4 — Final Boss  |  Q2: Name the game,100,60,,,,,,persona 5,"persona 5 royal|p5|p5r|persona five",,
+cat4q3,short_answer,💀 Category 4 — Final Boss  |  Q3: Name the game,100,60,,,,,,elden ring,"eldenring|elden ring game|fromsoft elden ring",,
+cat4q4,short_answer,💀 Category 4 — Final Boss  |  Q4: Name the game,100,60,,,,,,god of war,"gow|god of war 2018|god of war ps4",,
+cat4q5,short_answer,💀 Category 4 — Final Boss  |  Q5: Name the game,100,60,,,,,,ace combat zero,"ace combat zero the belkan war|ace combat 0|ace combat: zero",,
